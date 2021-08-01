@@ -15,12 +15,11 @@
     "watch": "textlint-scripts build --watch"
   },
   "devDependencies": {
-    "@textlint/types": "^1.3.1",
-    "@types/node": "^13.13.5",
-    "textlint-scripts": "^3.0.0",
-    "textlint-tester": "^5.1.15",
-    "ts-node": "^8.10.1",
-    "typescript": "^3.8.3"
+    "@textlint/types": "^12.0.2",
+    "@types/node": "^16.4.9",
+    "textlint-scripts": "^12.0.2",
+    "textlint-tester": "^12.0.2",
+    "typescript": "^4.3.5"
   },
   "name": "textlint-rule-no-kangxi-radicals",
   "description": "textlint rule to prevent using kangxi radicals",
