@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.2",
   "keywords": [
     "textlintrule"
   ],
@@ -32,6 +32,6 @@
     "match-index": "^1.0.3"
   },
   "repository": {
-    "url": "https://github.com/xl1/textlint-rule-no-kangxi-radicals.git"
+    "url": "git+https://github.com/xl1/textlint-rule-no-kangxi-radicals.git"
   }
 }
